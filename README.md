@@ -3,6 +3,14 @@
 This setup is meant ONLY For this model, may work on other thinkpads, currently only tested on this
 Designed for Monterey Only, you can try older, but Monterey is latest it supports (Ventura was too much pain)
 
+## Hardware this was made for
+
+Was made for 2core haswell i3 (1,7 GHz Dual-Core Intel Core i3)
+Was made for Intel HD 4400 graphics, but any should work if you set it properly with opencore
+Intel wifi card (wifi actually working)
+Sound card should be cx20751/2 (the ssdt is placed there to support this)
+I use 8gbs ram, shouldnt be an issue to have less or more (use atleast 4gb, system on itself uses like 1,5gb's ram)
+
 ## Setup
 
 1. Download Monterey with macrecovery in OpenCore repository
