@@ -30,10 +30,10 @@ I use 8gbs ram, shouldnt be an issue to have less or more (use atleast 4gb, syst
 
 ## Issues
 
-Bluetooth is kinda quirky (not really sure, my antenas are dead)
-Airdrop WONT work unless on apple broadcom (havent tried yet)
-Sleep issues (should sleep without crashing, but disables Backlight + Sound buttons, sometimes battery readouts, reccomend installing amphetamine and leaving it on pernamently for now)
-USB Accessory needs power issues (mapping is done lightly (Very much thanks to the firmware developeres for putting devices under first 15))
+* Bluetooth is kinda quirky (not really sure, my antenas are dead)
+* Airdrop WONT work unless on apple broadcom (havent tried yet)
+* Sleep issues (should sleep without crashing, but disables Backlight + Sound buttons, sometimes battery readouts, reccomend installing amphetamine and leaving it on pernamently for now)
+* USB Accessory needs power issues (mapping is done lightly (Very much thanks to the firmware developeres for putting devices under first 15))
 
 ## Whats working?
 
