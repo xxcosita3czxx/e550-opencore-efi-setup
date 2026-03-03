@@ -41,8 +41,8 @@ Everything not specified in the Issues
 
 ## Todo's
 
-> Fix The sleep (could or could not work already, its kinda quirky)
-> Fix usb accessory needs power (usb map issue maybe? EDIT: This is power delivery issue as of wattage mismatch of the cpu, either needs to set correct cpu or manual acpi patching of wattage. Another fix would be downgrade to big sur where this cpu is supported natively)
+* Fix The sleep (could or could not work already, its kinda quirky)
+* Fix usb accessory needs power (usb map issue maybe? EDIT: This is power delivery issue as of wattage mismatch of the cpu, either needs to set correct cpu or manual acpi patching of wattage. Another fix would be downgrade to big sur where this cpu is supported natively)
 
 ## Problem?
 
